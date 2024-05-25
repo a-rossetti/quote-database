@@ -1,0 +1,12 @@
+# Ignore compiled bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the SQLite database file
+quotes.db
+
+# Ignore any other temporary or unnecessary files
+*.log
+*.tmp
+*.bak
+
